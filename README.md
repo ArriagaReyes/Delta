@@ -10,8 +10,8 @@ Project Delta, a story about change.
 
 ## Index
 
-[Characters](#1.%20Characters)
-[Story](#2.%20story)
+- [Characters](#1.-Characters)
+- [Story](#2.-Story)
 
 ## 1. Characters
 
