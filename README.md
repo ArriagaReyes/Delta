@@ -7,3 +7,4 @@ Project Delta, a story about change.
 | Version | Whats New |
 | ------- | --------- |
 | 0.00    | Making plans and documenting stuff. |
+ 
