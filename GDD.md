@@ -5,6 +5,7 @@ The game design document, detailing how the game will be structured, navigated, 
 ## Index
 
 - Environment
+- Story
 - Game Feel
 - Combat
 - Morality System
@@ -14,6 +15,14 @@ The game design document, detailing how the game will be structured, navigated, 
 ## Environment
 
 - The 2.5D game space
+
+## Story
+
+- The story and characters of the game
+
+### Story/World
+
+### Characters
 
 ## Game Feel
 
