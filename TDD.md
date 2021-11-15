@@ -1,6 +1,6 @@
 # Untitled Game: Delta
 
-The technically design document with all the tools to be used and how systems will function.
+The technical design document with all the tools to be used and how systems will function.
 
 ## Index
 
