@@ -10,6 +10,7 @@ The game design document, detailing how the game will be structured, navigated, 
 - Combat
 - Morality System
 - Audio Design
+- Art Style
 - Advancement System
 
 ## Environment
@@ -39,6 +40,10 @@ The game design document, detailing how the game will be structured, navigated, 
 ## Audio Design
 
 - Talk about any atmospheric audio effects we wish to include, such as the heartbeat effect
+
+## Art Style
+
+- What we aim to achieve visually
 
 ## Advancement System
 
